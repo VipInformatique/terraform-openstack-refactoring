@@ -1,0 +1,6 @@
+name,image_name,flavor_name,key_pair,sg,network_name
+vm1,cirros-0.6.3-x86_64-disk,m1.tiny,mykey,default,private
+vm2,cirros-0.6.3-x86_64-disk,m1.tiny,mykey,default,private
+vm3,cirros-0.6.3-x86_64-disk,m1.tiny,mykey,default,private
+vm4,cirros-0.6.3-x86_64-disk,m1.tiny,mykey,default,private
+vm5,cirros-0.6.3-x86_64-disk,m1.tiny,mykey,default,private
